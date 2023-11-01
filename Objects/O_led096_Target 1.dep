@@ -1,7 +1,7 @@
 Dependencies for Project 'O_led096', Target 'Target 1': (DO NOT MODIFY !)
 CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
 F (.\Startup.s)(0x559CDAC0)(--cpu ARM7TDMI -g --apcs=interwork -ID:\XITFZ\oled\Keil_v5\ARM\RV31\INC-ID:\XITFZ\oled\Keil_v5\ARM\CMSIS\Include-ID:\XITFZ\oled\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 529"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
-F (.\main.c)(0x6542036F)(--c99 --gnu -c --cpu ARM7TDMI -g -O0 --apcs=interwork --split_sections-ID:\XITFZ\oled\Keil_v5\ARM\RV31\INC-ID:\XITFZ\oled\Keil_v5\ARM\CMSIS\Include-ID:\XITFZ\oled\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="529"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (.\main.c)(0x65420A1B)(--c99 --gnu -c --cpu ARM7TDMI -g -O0 --apcs=interwork --split_sections-ID:\XITFZ\oled\Keil_v5\ARM\RV31\INC-ID:\XITFZ\oled\Keil_v5\ARM\CMSIS\Include-ID:\XITFZ\oled\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="529"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (D:\XITFZ\oled\Keil_v5\ARM\INC\Philips\lpc213x.h)(0x559CDB08)
-I (oled.h)(0x654203CE)
-I (oledfont.h)(0x65420112)
+I (oled.h)(0x65420415)
+I (oledfont.h)(0x654209D5)

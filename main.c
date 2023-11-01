@@ -19,7 +19,7 @@ int main(void)
 		OLED_ShowCHinese(108,0,6);//¼¼
 		OLED_ShowString(0,2,"1.3' OLED TEST");
 	//	OLED_ShowString(8,2,"ZHONGJINGYUAN");  
-	 	OLED_ShowString(20,4,"2014/05/01");  
+	 	OLED_ShowString(20,4,"2023/11/01");  
 		OLED_ShowString(0,6,"ASCII:");  
 		OLED_ShowString(63,6,"CODE:");  
 		OLED_ShowChar(48,6,t);//ÏÔÊ¾ASCII×Ö·û	   
