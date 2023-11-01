@@ -93,8 +93,8 @@
       <flags>2</flags>
       <showCmd>3</showCmd>
       <MinPosition>
-        <xPos>-1</xPos>
-        <yPos>-1</yPos>
+        <xPos>-32000</xPos>
+        <yPos>-32000</yPos>
       </MinPosition>
       <MaxPosition>
         <xPos>-1</xPos>
@@ -1865,27 +1865,27 @@
       <ActiveTab>0</ActiveTab>
       <Doc>
         <Name>.\main.c</Name>
-        <ColumnNumber>36</ColumnNumber>
+        <ColumnNumber>23</ColumnNumber>
         <TopLine>1</TopLine>
-        <CurrentLine>22</CurrentLine>
+        <CurrentLine>19</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>
       </Doc>
       <Doc>
         <Name>oled.h</Name>
-        <ColumnNumber>22</ColumnNumber>
-        <TopLine>154</TopLine>
-        <CurrentLine>239</CurrentLine>
+        <ColumnNumber>0</ColumnNumber>
+        <TopLine>136</TopLine>
+        <CurrentLine>157</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>
       </Doc>
       <Doc>
         <Name>oledfont.h</Name>
-        <ColumnNumber>11</ColumnNumber>
-        <TopLine>194</TopLine>
-        <CurrentLine>215</CurrentLine>
+        <ColumnNumber>0</ColumnNumber>
+        <TopLine>195</TopLine>
+        <CurrentLine>236</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>

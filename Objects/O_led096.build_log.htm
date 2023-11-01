@@ -31,15 +31,17 @@ assembling Startup.s...
 compiling main.c...
 oled.h(240): warning:  #1-D: last line of file ends without a newline
   }  
-main.c(37): warning:  #111-D: statement is unreachable
+main.c(38): warning:  #111-D: statement is unreachable
   	return 0;
-main.c(38): warning:  #1-D: last line of file ends without a newline
+main.c(39): warning:  #1-D: last line of file ends without a newline
   }
-main.c: 3 warnings, 0 errors
+main.c(9): warning:  #550-D: variable "t"  was set but never used
+  	unsigned char t;
+main.c: 4 warnings, 0 errors
 linking...
-Program Size: Code=3104 RO-data=2124 RW-data=448 ZI-data=1256  
-".\Objects\O_led096.axf" - 0 Error(s), 3 Warning(s).
-Build Time Elapsed:  00:00:00
+Program Size: Code=2264 RO-data=2124 RW-data=512 ZI-data=1256  
+".\Objects\O_led096.axf" - 0 Error(s), 4 Warning(s).
+Build Time Elapsed:  00:00:01
 </pre>
 </body>
 </html>
